@@ -576,3 +576,10 @@
 "SB_SKIP_ALERT_DURATION" = "跳过提示时长";
 "SB_UNSKIP_ALERT_DURATION" = "取消跳过提示时长";
 "SB_MIN_DURATION_SLIDER" = "可跳过片段的最小时长";
+
+// Fullscreen button tap area
+"FULLSCREEN_TAP_AREA" = "Fullscreen button tap area";
+"FULLSCREEN_TAP_AREA_DESC" = "Makes the fullscreen button easier to hit and stops player gestures from swallowing taps on it and other player buttons.";
+"FULLSCREEN_TAP_AREA_DEFAULT" = "YouTube default";
+"FULLSCREEN_TAP_AREA_LARGE" = "Large";
+"FULLSCREEN_TAP_AREA_XLARGE" = "Extra large";

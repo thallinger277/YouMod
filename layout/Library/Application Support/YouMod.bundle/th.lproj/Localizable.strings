@@ -576,3 +576,10 @@
 "SB_SKIP_ALERT_DURATION" = "ระยะเวลาแสดงการแจ้งเตือนเมื่อข้าม";
 "SB_UNSKIP_ALERT_DURATION" = "ระยะเวลาแสดงการแจ้งเตือนเมื่อยกเลิกการข้าม";
 "SB_MIN_DURATION_SLIDER" = "ความยาวขั้นต่ำของช่วงวิดีโอที่จะให้ข้าม";
+
+// Fullscreen button tap area
+"FULLSCREEN_TAP_AREA" = "Fullscreen button tap area";
+"FULLSCREEN_TAP_AREA_DESC" = "Makes the fullscreen button easier to hit and stops player gestures from swallowing taps on it and other player buttons.";
+"FULLSCREEN_TAP_AREA_DEFAULT" = "YouTube default";
+"FULLSCREEN_TAP_AREA_LARGE" = "Large";
+"FULLSCREEN_TAP_AREA_XLARGE" = "Extra large";

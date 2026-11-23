@@ -198,6 +198,10 @@
 #define HideCommentsPreview @"YouModHideCommentsPreview"
 #define LockSpeed @"YouModLockSpeed"
 #define SeekOnOverlay @"YouModSeekOnOverlay"
+#define FullscreenTapArea @"YouModFullscreenTapArea"
+
+// FullscreenButton.x
+BOOL YouModGestureStartsOnControl(UIGestureRecognizer *gesture);
 #define AutoDRCAudioIndex @"YouModAutoDRCAudioIndex"
 #define RemoveVideoLikeButton @"YouModRemoveVideoLikeButton"
 #define RemoveVideoDislikeButton @"YouModRemoveVideoDislikeButton"

@@ -576,3 +576,10 @@
 "SB_SKIP_ALERT_DURATION" = "건너뛰기 알림 표시 시간";
 "SB_UNSKIP_ALERT_DURATION" = "건너뛰기 취소 알림 표시 시간";
 "SB_MIN_DURATION_SLIDER" = "건너뛸 최소 구간 길이";
+
+// Fullscreen button tap area
+"FULLSCREEN_TAP_AREA" = "Fullscreen button tap area";
+"FULLSCREEN_TAP_AREA_DESC" = "Makes the fullscreen button easier to hit and stops player gestures from swallowing taps on it and other player buttons.";
+"FULLSCREEN_TAP_AREA_DEFAULT" = "YouTube default";
+"FULLSCREEN_TAP_AREA_LARGE" = "Large";
+"FULLSCREEN_TAP_AREA_XLARGE" = "Extra large";

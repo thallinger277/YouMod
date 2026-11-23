@@ -576,3 +576,10 @@
 "SB_SKIP_ALERT_DURATION" = "Durée de l'alerte de saut";
 "SB_UNSKIP_ALERT_DURATION" = "Durée de l'alerte de retour";
 "SB_MIN_DURATION_SLIDER" = "Durée minimale de segment à passer";
+
+// Fullscreen button tap area
+"FULLSCREEN_TAP_AREA" = "Fullscreen button tap area";
+"FULLSCREEN_TAP_AREA_DESC" = "Makes the fullscreen button easier to hit and stops player gestures from swallowing taps on it and other player buttons.";
+"FULLSCREEN_TAP_AREA_DEFAULT" = "YouTube default";
+"FULLSCREEN_TAP_AREA_LARGE" = "Large";
+"FULLSCREEN_TAP_AREA_XLARGE" = "Extra large";

@@ -777,6 +777,9 @@ static CGFloat remainingOverlayWidth(YTPlayerViewController *pvc, CGFloat fullWi
 
         if (isRelatedVideosPanelEnabled(self)) return NO;          
 
+        // Never start a swipe on top of a player button (fullscreen, PiP, ...)
+        if (YouModGestureStartsOnControl(gestureRecognizer)) return NO;
+
         UIPanGestureRecognizer *panGesture = (UIPanGestureRecognizer *)gestureRecognizer;
         CGPoint startLocation = [panGesture locationInView:self.view];
         CGPoint velocity = [panGesture velocityInView:self.view];
