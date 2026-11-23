@@ -583,3 +583,5 @@
 "FULLSCREEN_TAP_AREA_DEFAULT" = "YouTube default";
 "FULLSCREEN_TAP_AREA_LARGE" = "Large";
 "FULLSCREEN_TAP_AREA_XLARGE" = "Extra large";
+"FULLSCREEN_TAP_DEBUG" = "Show fullscreen tap area (debug)";
+"FULLSCREEN_TAP_DEBUG_DESC" = "Shows the detected fullscreen button tap area and what each tap in the player hits. For troubleshooting only.";

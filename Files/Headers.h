@@ -199,6 +199,7 @@
 #define LockSpeed @"YouModLockSpeed"
 #define SeekOnOverlay @"YouModSeekOnOverlay"
 #define FullscreenTapArea @"YouModFullscreenTapArea"
+#define FullscreenTapDebug @"YouModFullscreenTapDebug"
 
 // FullscreenButton.x
 BOOL YouModGestureStartsOnControl(UIGestureRecognizer *gesture);

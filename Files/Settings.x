@@ -342,6 +342,7 @@ static NSString *GetCacheSize() { // YTLite - @dayanch96
             YMToggle(YMLOC(@"AUTO_FULLSCREEN"), YMLOC(@"AUTO_FULLSCREEN_DESC"), AutoFullScreen),
             YMToggle(YMLOC(@"AUTO_EXIT_FULLSCREEN"), YMLOC(@"AUTO_EXIT_FULLSCREEN_DESC"), AutoExitFullScreen),
             YMPicker(YMLOC(@"FULLSCREEN_TAP_AREA"), YMLOC(@"FULLSCREEN_TAP_AREA_DESC"), FullscreenTapArea, (@[YMLOC(@"FULLSCREEN_TAP_AREA_DEFAULT"), YMLOC(@"FULLSCREEN_TAP_AREA_LARGE"), YMLOC(@"FULLSCREEN_TAP_AREA_XLARGE")]), 1),
+            YMToggle(YMLOC(@"FULLSCREEN_TAP_DEBUG"), YMLOC(@"FULLSCREEN_TAP_DEBUG_DESC"), FullscreenTapDebug),
             YMToggle(YMLOC(@"AUTO_FEED_MUTE"), YMLOC(@"AUTO_FEED_MUTE_DESC"), AutoFeedMute),
             YMHeader(YMLOC(@"GESTURE_HEADER")),
             YMToggle(YMLOC(@"GESTURES"), YMLOC(@"GESTURES_DESC"), GestureControls),
